@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:naverPractice.xcodeproj">
+      location = "self:/Users/Minwoo/Desktop/naverPractice/CheckNGoImprovement.xcodeproj">
    </FileRef>
 </Workspace>

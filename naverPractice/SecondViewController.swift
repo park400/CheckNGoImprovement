@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  SecondViewController.swift
 //  naverPractice
 //
 //  Created by Minwoo Park on 6/18/17.
@@ -8,18 +8,27 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class SecondViewController: UIViewController {
 
+    @IBOutlet weak var back: UIButton!
+    
+    
+    @IBOutlet weak var passedID: UILabel!
+    
+    var loginID: String!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+
+        passedID.text! = loginID
     }
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
+    
+
 
 
 }
-

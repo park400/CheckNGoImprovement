@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "1DD412C11EF648FC00EED327"
-               BuildableName = "naverPractice.app"
-               BlueprintName = "naverPractice"
-               ReferencedContainer = "container:naverPractice.xcodeproj">
+               BuildableName = "CheckNGoImprovement.app"
+               BlueprintName = "CheckNGoImprovement"
+               ReferencedContainer = "container:CheckNGoImprovement.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "1DD412D51EF648FC00EED327"
-               BuildableName = "naverPracticeTests.xctest"
-               BlueprintName = "naverPracticeTests"
-               ReferencedContainer = "container:naverPractice.xcodeproj">
+               BuildableName = "CheckNGoImprovementTests.xctest"
+               BlueprintName = "CheckNGoImprovementTests"
+               ReferencedContainer = "container:CheckNGoImprovement.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "1DD412E01EF648FC00EED327"
-               BuildableName = "naverPracticeUITests.xctest"
-               BlueprintName = "naverPracticeUITests"
-               ReferencedContainer = "container:naverPractice.xcodeproj">
+               BuildableName = "CheckNGoImprovementUITests.xctest"
+               BlueprintName = "CheckNGoImprovementUITests"
+               ReferencedContainer = "container:CheckNGoImprovement.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1DD412C11EF648FC00EED327"
-            BuildableName = "naverPractice.app"
-            BlueprintName = "naverPractice"
-            ReferencedContainer = "container:naverPractice.xcodeproj">
+            BuildableName = "CheckNGoImprovement.app"
+            BlueprintName = "CheckNGoImprovement"
+            ReferencedContainer = "container:CheckNGoImprovement.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1DD412C11EF648FC00EED327"
-            BuildableName = "naverPractice.app"
-            BlueprintName = "naverPractice"
-            ReferencedContainer = "container:naverPractice.xcodeproj">
+            BuildableName = "CheckNGoImprovement.app"
+            BlueprintName = "CheckNGoImprovement"
+            ReferencedContainer = "container:CheckNGoImprovement.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1DD412C11EF648FC00EED327"
-            BuildableName = "naverPractice.app"
-            BlueprintName = "naverPractice"
-            ReferencedContainer = "container:naverPractice.xcodeproj">
+            BuildableName = "CheckNGoImprovement.app"
+            BlueprintName = "CheckNGoImprovement"
+            ReferencedContainer = "container:CheckNGoImprovement.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

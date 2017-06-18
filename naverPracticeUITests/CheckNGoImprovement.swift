@@ -8,7 +8,7 @@
 
 import XCTest
 
-class naverPracticeUITests: XCTestCase {
+class CheckNGoImprovementTests: XCTestCase {
         
     override func setUp() {
         super.setUp()

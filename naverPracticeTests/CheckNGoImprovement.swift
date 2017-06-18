@@ -7,9 +7,9 @@
 //
 
 import XCTest
-@testable import naverPractice
+@testable import CheckNGoImprovement
 
-class naverPracticeTests: XCTestCase {
+class CheckNGoImprovementTests: XCTestCase {
     
     override func setUp() {
         super.setUp()
